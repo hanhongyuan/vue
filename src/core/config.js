@@ -1,9 +1,5 @@
 /* @flow */
 
-
-
-
-
 import { no, noop, identity } from 'shared/util'
 
 export type Config = {
