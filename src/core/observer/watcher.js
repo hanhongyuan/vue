@@ -1,4 +1,6 @@
-/* @flow */
+/* @flow
+
+ */
 
 import config from '../config'
 import Dep, { pushTarget, popTarget } from './dep'
